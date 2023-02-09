@@ -1,17 +1,18 @@
 # Profile Card
 
 ## Projeto de um Profile Card utilizando apenas HTML e CSS
+<br />
+<br />
 
+<div align="center">
+   <img src="img/card1.png" height="250px"/>  <img src="img/Card2.png" height="250px"/>  <img src="img/Card3.png" height="250px"/>
+</div>
 
-![preview](/img/card1.png)
+<br />
 
-###Passando o mouse no card cria este efeito
+- Na imagem 2 ao passar o mouse sobre o card, tanto o card quanto a imagem aumentam de tamanho.
 
-![preview](/img/Card2.png)
-
-###Passando o mouse sobre o botão este outro efeito
-
-![preview](/img/Card3.png)
+- Na imagem 3 ao passar o mouse sobre o botão, ele muda de cor.
 
 <br />
 <br />
@@ -22,8 +23,14 @@ Foram trabalhados conceitos básicos de programação web, tais como:
 - animações - transition e transform
 
 O projeto ainda vai ser melhorado.
+          
+
 <br />
 
-## Contato
+## Como me encontrar nas redes sociais:   
+<a href="https://www.linkedin.com/in/giselle-brasil-macedo-729113137/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/giselle-brasil-macedo-729113137/" height="30" width="40" /></a>
 
-gisellemacedo.dev@gmail.com
+<br />
+
+### Contato:   - 📫  gisellemacedo.dev@gmail.com   
+
